@@ -1,0 +1,2 @@
+# Cyber_Security_and_Ethical_hacking_Task-5
+Excited to start my final Capstone Project &amp; Incident Response simulation at ApexPlanet! 🚀 I’ll be tackling a full security lifecycle: from pentesting and exploitation to log analysis and threat eradication. Looking forward to refining my technical reporting and IR skills. Stay tuned for the final results! 🛡💻 #CyberSecurity #Infosec #Career
